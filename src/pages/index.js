@@ -18,7 +18,7 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             I have made some changes to the file&nbsp;
-            <code className={styles.code}>src/pages/index.js</code>
+            <code className={styles.code}>src/pages/index.js</code> and made new commit
           </p>
           <div>
             <a
